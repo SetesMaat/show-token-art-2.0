@@ -25,9 +25,9 @@
 			"path": "lang/en.json"
 		}
 	],
-	"manifest": "https://github.com/veilza/show-token-art/releases/latest/download/module.json",
+	"manifest": "https://github.com/SetesMaat/show-token-art-2.0/releases/download/2.0.0/module.json",
 	"url": "https://github.com/veilza/show-token-art",
-	"download": "https://github.com/veilza/show-token-art/releases/latest/download/show-token-art.zip",
+	"download": "https://github.com/SetesMaat/show-token-art-2.0/releases/download/2.0.0/show-token-art.zip",
 	"readme": "https://github.com/veilza/show-token-art/blob/main/readme.md",
 	"changelog": "https://github.com/veilza/show-token-art/releases"
 }
