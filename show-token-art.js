@@ -112,7 +112,7 @@ class ShowArt {
 	static createImagePopup(image, title) {
 		return new MediaPopout(image, {
 			title, shareable: true,
-		}).render(true)
+		}).render(true).share()
 	}
 
 	// Retrieves the token of the given actor
